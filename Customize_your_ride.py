@@ -1,6 +1,6 @@
 mode=input("Which mode do you prefer? [Bike/Car]=")
 if mode=='Bike':
-    mode2=input("Do you prefer Honda/TVS?")
+    mode2=input("Do you prefer Honda/TVS?=")
     if mode2=='Honda':
         print("You ride is confirmed")
     else:
